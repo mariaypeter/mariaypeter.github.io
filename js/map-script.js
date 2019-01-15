@@ -57,7 +57,6 @@
        		position: new google.maps.LatLng(43.1939864,-4.0556559),
        		draggable: false,
        		raiseOnDrag: false,
-       		icon: ' ',
        		map: map,
          	labelContent: '<div class="de-icon circle medium-size" style="background-color:#FFF; border:1px solid #f0394d"><i class="de-icon-heart" style="color:#f0394d"></i></div>',
        		labelAnchor: new google.maps.Point(29, 20),
