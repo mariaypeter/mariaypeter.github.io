@@ -7,7 +7,7 @@
 	'*** NOS CASAMOS ***':'*** WIR HEIRATEN ***',
 	'NUESTRA':'UNSERE',
 	'HISTORIA':'GESCHICHTE',
-	'Érase una vez una chica española y un chico alemán a los que el destino unió y después de siete maravillosos años juntos nos casamos y queremos celebrarlo por todo lo alto':'Es war einmal ein spanisches Mädchen und ein deutscher Junge, die das Schicksal zusammengeführt hat. Und sieben wundervolle gemeinsame Jahre später haben sich die beiden entschlossen zu heiraten',
+	'Érase una vez una chica española y un chico alemán a los que el destino unió y después de siete maravillosos años juntos nos casamos y queremos celebrarlo por todo lo alto':'Es war einmal ein spanisches Mädchen und ein deutscher Junge, die das Schicksal zusammengeführt hat. Und zehn wundervolle gemeinsame Jahre später haben sich die beiden entschlossen zu heiraten',
 	'Nos encantará celebrar con vosotros este día tan especial':'Es würde uns freuen, diesen besonderen Tag mit Euch zu feiern',
 	'*** EN LA CASONA DE LAS FRAGUAS ***':'***  IM LA CASONA DE LAS FRAGUAS ***',
 	'Cuenta':'Countdown',
