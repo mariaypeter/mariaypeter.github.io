@@ -53,5 +53,19 @@
 	'Situada en el corazón de Cantabria, el Rincón de Valdeiguña es una casona montañesa, construída íntegramente en piedra y madera, y recientemente rehabilitada por sus propietarios':'El Rincón de Valdeiguña ist ein traditionelles Berghaus im Herzen Kantabriens. Es wurde vollständig aus Stein und Holz erreichtet und kürzlich von den Besitzern renoviert',
 	'Un trato familiar, un lugar tranquilo y confortable, en un bello entorno natural':'Familiärer Umgang mit den Gästen an einem ruhigen und gemütlichem Ort, umgeben von schönster Natur',
 	'Casa solariega montañesa del siglo XIX, de planta casi cuadrada, con tipología tradicional de muros exteriores de piedra y grandes sillares que conforman las esquinas y huecos de sus numerosas ventanas':'',
-	'Más información próximamente': ''
+	'Más información próximamente': '',
+	'Turismo en Santander y Cantabria': '',
+	'Web de turismo del Ayuntamiento de Santander': '',
+	'Actividades al Aire Libre': '',
+	'Parque Nacional Picos de Europa': '',
+	'Parque natural de Cabárceno': '',
+	'Surf': '',
+	'Los once pueblos más bonitos de Cantabria': '',
+	'Gastronomía y Vida Nocturna': '',
+	'Plaza de Cañadío': '',
+	'La Plaza de Cañadío en Santander es actualmente el centro de la vida nocturna de la ciudad': '',
+	'Por las noches, sobre todo los fines de semana, se reune una gran cantidad de personas en los bares y pubs que hay en la plaza y proximidades': '',
+	'Enlaces de interés': '',
+	'Hospital y urgencias': '',
+	'Comisaría de policía': ''
 }
