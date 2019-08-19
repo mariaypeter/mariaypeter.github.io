@@ -67,5 +67,7 @@
 	'Por las noches, sobre todo los fines de semana, se reune una gran cantidad de personas en los bares y pubs que hay en la plaza y proximidades': 'Nachts, besonders am Wochenende, versammeln sich viele Menschen in den Bars und Pubs auf dem Platz und in der Nähe',
 	'Enlaces de interés': 'Links von Interesse',
 	'Hospital y urgencias': 'Krankenhaus und Notfall',
-	'Comisaría de policía': 'Polizeistation'
+	'Comisaría de policía': 'Polizeistation',
+	'El autobús saldrá a las 17:30 de la Plaza de las Estaciones (calle Atilano Rodríguez, s/n) y a las 17:45 de en frente de la oficina de Liberbank en Cazoña (plaza Manuel Llano s/n) hacia La Casona de las Fraguas': 'Die Abfahrt des Busses nach La Casona de las Fraguas ist um 17:30 Uhr am Plaza de las Estaciones (Bahnhofsplatz / Calle Atilano Rodriguez) und um 17:45 Uhr vor der Liberbank in Cazoña (Plaza Manuel Llano)',
+	'Relizará dos regresos a Santander a las 2 y a las 5 de la madrugada': 'Zurück nach Santander fahren zwei Busse, einer um 2:00 Uhr und einer um 5:00 Uhr morgens'
 }
